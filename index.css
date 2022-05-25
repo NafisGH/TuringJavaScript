@@ -1,0 +1,14 @@
+.test3 {
+    background-color: gray;
+    text-align: center;
+    flex-wrap: wrap;
+    border: solid 3px red;
+}
+
+#clock{
+    color: #000;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+
