@@ -191,20 +191,25 @@
 
 // console.log(' Задание №2')
 
-const promise = fetch('https://jsonplaceholder.typicode.com/users/9', {
-	method: 'GET'
-})
+// const promise = fetch('https://jsonplaceholder.typicode.com/users/9', {
+// 	method: 'GET'
+// })
 
-promise
-.then((response) => {
-	return response.json();
-})
-.then((data) => {
-	console.log(data)
-})
-.catch(() => {})
-.finally(() => {})
+// promise
+// .then((response) => {
+// 	return response.json();
+// })
+// .then((data) => {
+// 	console.log(data)
+// })
+// .catch(() => {})
+// .finally(() => {})
 
+
+
+
+
+  
 
 
 
